@@ -1,0 +1,2 @@
+ArticraftName,ArticraftVersion,Type,Packagename,PackageJar,PackageJson
+google-cloud,0.18.4,HUB,hydrator-plugin-gcp-plugins,google-cloud-0.18.4.jar,google-cloud-0.18.4.json

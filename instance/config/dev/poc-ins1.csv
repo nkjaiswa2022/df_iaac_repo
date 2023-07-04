@@ -1,0 +1,2 @@
+instance_name,cdf_version,cdf_release,cdf_network,cdf_ip_range,description,default_service_account,instance_owner
+poc-ins1,ENTERPRISE,6.7.2,default,x.x.x.x/20,Enterprise CDF deployed by Terraform,XXX-compute@developer.gserviceaccount.com,data-analytics
